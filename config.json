@@ -5,6 +5,6 @@
   "local_port": 1080,
   "remote_port": 80,
   "password": "canyouguess?",
-  "timeout": 6,
+  "timeout": 1000,
   "method": "idea-cfb"
 }
